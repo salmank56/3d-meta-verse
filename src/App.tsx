@@ -1,11 +1,3 @@
-// import MetaVerseFrame from "./components/MetaVerseFrame";
-
-// const App = () => {
-//   return <MetaVerseFrame />;
-// };
-
-// export default App;
-
 import { Unity, useUnityContext } from "react-unity-webgl";
 import { useEffect } from "react";
 
